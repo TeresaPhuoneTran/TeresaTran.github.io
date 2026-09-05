@@ -1,0 +1,25 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+}
+
+header {
+    text-align: center;
+    padding: 60px 0;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.project {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
